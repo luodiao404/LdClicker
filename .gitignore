@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# User images (each user needs their own screenshots)
+images/*.png
+images/*.jpg
+images/*.bmp
+
+# Claude Code memory
+.claude/
+
+# Config exports
+*.zip
+config_backup/
+
+# Logs
+*.log
